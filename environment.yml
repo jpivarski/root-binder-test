@@ -1,0 +1,5 @@
+name: root-binder-test
+channels:
+  - conda-forge
+dependencies:
+  - root==6.26.8
